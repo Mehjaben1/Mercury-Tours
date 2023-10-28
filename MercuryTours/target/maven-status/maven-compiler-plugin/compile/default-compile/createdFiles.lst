@@ -1,0 +1,7 @@
+org\mma\mercury\tours\pages\MercuryToursRegisterPage.class
+org\mma\mercury\tours\util\BrowserFactory.class
+org\mma\mercury\tours\util\ExcelReader.class
+org\mma\mercury\tours\base\BaseClass.class
+org\mma\mercury\tours\util\Utility.class
+org\mma\mercury\tours\data\driven\TestdataUtil.class
+org\mma\mercury\tours\pages\MercuryToursLoginPage.class
